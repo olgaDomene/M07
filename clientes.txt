@@ -1,0 +1,6 @@
+Pujol,Pagerols,Anna,Mujer,45,165,67
+Remei,Siria,Sandra,Mujer,22,175,60
+Sánchez,Beltran,Artur,Hombre,48,175,83
+Mesa,Pedra,Álex,Hombre,75,167,90
+Feroz,García,Fran,Hombre,25,180,80
+Galán,Riu,Tania,Mujer,37,150,52

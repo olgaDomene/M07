@@ -1,0 +1,31 @@
+*{
+    padding:0px;
+    margin:0px;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+
+#cabecera{
+    background-color: cadetblue;
+    text-align: center;
+    height: 100px;
+}
+
+#pie{
+    background-color: cadetblue;
+    text-align: center;
+   /* height: 10%;*/
+}
+.cliente{
+    border:2px solid black;
+    width: 600px;
+    margin:0 auto;
+    padding: 25px;
+    margin-top: 10px;
+
+}
+h1{
+    text-align: center;
+    padding:10px;
+}
